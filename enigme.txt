@@ -1,0 +1,4 @@
+1.jpeg R1.png R2.png R3.png 1
+Q1.png R1.png R2.png R3.png 1
+mario.jpg R1.png R2.png R3.png 1
+R1S.png R1.png R2.png R3.png 1
