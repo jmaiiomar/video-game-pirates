@@ -1,6 +1,6 @@
 # video-game-pirates
 
- <p align="center"><img width="460" height="300" src="https://ibb.co/t292KWN"></p>
+ <p align="center"><img width="460" height="300" src="https://drive.google.com/file/d/16DC_uyIp5ZpU8CnVyXxdTe-0QbQ_IRLn/view"></p>
  
  #📣 About 
  A pirate video game composed of two stages, for the first stage which is a labyrinth where the pirate will look for treasure which contains puzzles that
