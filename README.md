@@ -12,7 +12,10 @@
 
 
 #📝 Credit
+<br>
   Omar JMAI
 
 #👨‍🚀 Show your support
+<br>
+
 Give a ⭐️ if this project helped you!
